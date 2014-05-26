@@ -1,0 +1,24 @@
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\bin\Debug\Instant Messenger.exe
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\bin\Debug\Instant Messenger.pdb
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.Connections.resources
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.Form1.resources
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant Messenger.exe
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant Messenger.pdb
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.About.resources
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant Messenger.exe
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant Messenger.pdb
+F:\Instant Messenger\Instant Messenger\bin\Debug\Instant Messenger.exe
+F:\Instant Messenger\Instant Messenger\bin\Debug\Instant Messenger.pdb
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.About.resources
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.Connections.resources
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.Form1.resources
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant_Messenger.Properties.Resources.resources
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Instant Messenger\Instant Messenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Desktop\college\programming\Assignments\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant Messenger.exe
+C:\Users\Jonathan\Desktop\college\programming\Assignments\Instant Messenger\Instant Messenger\obj\x86\Debug\Instant Messenger.pdb
